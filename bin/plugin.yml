@@ -1,0 +1,9 @@
+name: H2DatabaseAddon
+main: org.efreak.bukkitmanager.addon.h2.H2Support
+version: 1.0
+description: >
+             This is an Addon which adds H2 Database Support
+website: http://dev.bukkit.org/server-mods/bukkitmanager
+author: e-freak
+prefix: BukkitmanagerH2Database
+depend: [Bukkitmanager]
