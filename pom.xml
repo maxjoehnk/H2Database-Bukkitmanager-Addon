@@ -1,7 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.efreak.bukkitmanager.addon.h2</groupId>
-  <artifactId>h2</artifactId>
+  <artifactId>h2database</artifactId>
   <version>1.0</version>
   
   <name>H2Database Addon</name>
